@@ -42,7 +42,7 @@ This project was originally built with JavaScript and has been migrated to TypeS
 
 - Create, read, update, and delete lost items
 - Create, read, update, and delete found items
-- In-memory database for data storage
+- In-memory database as well as AWS Dynamo DB for data storage
 - TypeScript for type safety and better developer experience
 
 ## Getting Started
